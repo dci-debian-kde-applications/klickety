@@ -1,0 +1,33 @@
+.TH KLICKETY 6
+.SH NAME
+klickety \- a little game about balls and how to get rid of them
+.SH SYNOPSIS
+.B klickety
+.I [Qt-options] [KDE-options] [options]
+.SH DESCRIPTION
+.B klickety
+is a simple game. It is played by one player, so there is only one
+winner. You play for fun and against the high score. It has been
+inspired by SameGame, which is only really famous on the Macintosh.
+.SH OPTIONS
+.TP
+.B \-\-VeryEasy
+Start with Very Easy difficulty level
+.TP
+.B \-\-Easy
+Start with Easy difficulty level
+.TP
+.B \-\-Medium
+Start with Medium difficulty level
+.TP
+.B \-\-Hard
+Start with Hard difficulty level
+.TP
+.B \-\-KSameMode
+Start with KSame compatibility mode
+.so kdeopt.part
+.SH SEE ALSO
+More detailed user documentation is available from
+.BR help:/klickety
+(either enter this URL into \fBkonqueror\fP, or run `khelpcenter
+help:/klickety').
