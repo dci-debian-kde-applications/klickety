@@ -1,7 +1,7 @@
 Source: klickety
 Section: games
 Priority: optional
-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Daniel Schepler <schepler@debian.org>,
            Sune Vuorela <sune@debian.org>,
            Fathi Boudra <fabo@debian.org>,
@@ -18,15 +18,15 @@ Build-Depends: cmake,
                pkg-kde-tools (>= 0.14)
 Standards-Version: 3.9.5
 Homepage: http://games.kde.org/
-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/klickety.git
-Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/klickety.git
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-applications/klickety.git
+Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/klickety.git
 
 Package: klickety
 Architecture: any
 Depends: ${misc:Depends}, ${perl:Depends}, ${shlibs:Depends}
 Replaces: ksame (<< 4:4.6)
 Breaks: ksame (<< 4:4.6)
-Recommends: khelpcenter4
+Recommends: khelpcenter
 Description: SameGame puzzle game
  Klickety is a puzzle game where the player removes groups of colored marbles to
  clear the board.

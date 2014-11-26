@@ -1,3 +1,80 @@
+klickety (4:14.11.95-0ubuntu1) UNRELEASED; urgency=medium
+
+  * Initial release for KDE applications 14.12 series 
+   - Change maintainer to Debian/Kubuntu
+   - Fix Watch file applications locations 
+   - Fix VCS for new kde-applications location
+  * Debian merge, no remaining changes. 
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 26 Nov 2014 02:00:11 +0000
+
+klickety (4:4.14.2-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 10 Oct 2014 05:31:07 -0700
+
+klickety (4:4.14.1-0ubuntu1) utopic; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Mon, 22 Sep 2014 17:18:49 +0200
+
+klickety (4:4.14.0-0ubuntu1) utopic; urgency=medium
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 20 Aug 2014 13:12:05 +0200
+
+klickety (4:4.13.97-0ubuntu1) utopic; urgency=medium
+
+  * New upstream beta release
+  * New upstream beta release RC
+
+ -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Fri, 01 Aug 2014 16:53:16 +0200
+
+klickety (4:4.13.90-0ubuntu1) utopic; urgency=medium
+
+  * New upstream beta release
+
+ -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Thu, 24 Jul 2014 23:10:20 +0200
+
+klickety (4:4.13.2-0ubuntu1) utopic; urgency=medium
+
+  * new upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 18 Jun 2014 12:01:09 +0100
+
+klickety (4:4.13.0-0ubuntu2) utopic; urgency=medium
+
+  * Merge with debian, no remaining changes
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Mon, 16 Jun 2014 19:05:41 +0200
+
+klickety (4:4.13.0-0ubuntu1) trusty; urgency=medium
+
+  * New upstream KDE Software Compilation release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 10 Apr 2014 22:06:14 +0100
+
+klickety (4:4.12.97-0ubuntu1) trusty; urgency=medium
+
+  * New upstream release candidate
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Wed, 02 Apr 2014 11:29:50 +0200
+
+klickety (4:4.12.95-0ubuntu1) trusty; urgency=medium
+
+  * New upstream beta release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Sun, 23 Mar 2014 12:32:01 +0100
+
+klickety (4:4.12.90-0ubuntu1) trusty; urgency=medium
+
+  * New upstream beta release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 19 Mar 2014 11:01:58 +0000
+
 klickety (4:4.12.4-1) unstable; urgency=medium
 
   * Do not disable an empty test set.
@@ -6,6 +83,48 @@ klickety (4:4.12.4-1) unstable; urgency=medium
   * New upstream release.
 
  -- Maximiliano Curia <maxy@debian.org>  Mon, 28 Apr 2014 12:24:51 +0200
+
+klickety (4:4.12.3-0ubuntu1) trusty; urgency=medium
+
+  * New upstream bugfix release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Tue, 04 Mar 2014 20:52:09 +0100
+
+klickety (4:4.12.2-0ubuntu1) trusty; urgency=medium
+
+  * New upstream bugfix release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Wed, 05 Feb 2014 00:04:35 +0000
+
+klickety (4:4.12.1-0ubuntu1) trusty; urgency=low
+
+  * New upstream bugfix release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Thu, 16 Jan 2014 08:20:58 +0000
+
+klickety (4:4.12.0-0ubuntu1) trusty; urgency=low
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 18 Dec 2013 17:12:08 +0000
+
+klickety (4:4.11.97-0ubuntu1) trusty; urgency=low
+
+  * New upstream RC release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 29 Nov 2013 13:12:57 +0000
+
+klickety (4:4.11.95-0ubuntu1) trusty; urgency=low
+
+  * New upstream beta release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Mon, 25 Nov 2013 18:09:58 +0100
+
+klickety (4:4.11.80-0ubuntu1) trusty; urgency=low
+
+  * New upstream beta release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Sat, 23 Nov 2013 17:43:07 +0100
 
 klickety (4:4.11.3-1) unstable; urgency=low
 
@@ -21,6 +140,53 @@ klickety (4:4.11.2-1) experimental; urgency=low
 
  -- Maximiliano Curia <maxy@debian.org>  Mon, 07 Oct 2013 15:29:05 +0200
 
+klickety (4:4.11.2-0ubuntu1) saucy; urgency=low
+
+  * New upstream bugfix release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 30 Sep 2013 14:28:35 +0100
+
+klickety (4:4.11.1-0ubuntu1) saucy; urgency=low
+
+  * New upstream bugfix release.
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Fri, 06 Sep 2013 22:25:26 +0100
+
+klickety (4:4.11.0-0ubuntu1) saucy; urgency=low
+
+  [ Howard Chan ]
+  * New upstream release
+
+  [ Jonathan Riddell ]
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 14 Aug 2013 00:19:20 +0100
+
+klickety (4:4.10.97-0ubuntu1) saucy; urgency=low
+
+  * New upstream RC 2 release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 26 Jul 2013 19:39:08 +0100
+
+klickety (4:4.10.95-0ubuntu1) saucy; urgency=low
+
+  * New upstream RC release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Fri, 19 Jul 2013 12:32:38 +0000
+
+klickety (4:4.10.90-0ubuntu1) saucy; urgency=low
+
+  * New upstream bet release
+
+ -- Michał Zając <quintasan@kubuntu.org>  Fri, 28 Jun 2013 18:16:54 +0100
+
+klickety (4:4.10.80-0ubuntu1) saucy; urgency=low
+
+  * New upstream release
+    - Update install files
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Fri, 21 Jun 2013 01:23:04 +0100
+
 klickety (4:4.10.5-1) unstable; urgency=low
 
   * New upstream release.
@@ -34,9 +200,63 @@ klickety (4:4.10.4-1) experimental; urgency=low
 
  -- Maximiliano Curia <maxy@debian.org>  Fri, 14 Jun 2013 10:55:05 +0200
 
+klickety (4:4.10.4-0ubuntu1) saucy-proposed; urgency=low
+
+  * New upstream bugfix release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Fri, 07 Jun 2013 00:35:30 +0100
+
+klickety (4:4.10.3-0ubuntu1) saucy; urgency=low
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 23 May 2013 11:04:43 +0000
+
 klickety (4:4.10.2-1) experimental; urgency=low
 
   * First release of kdegames after being split by upstream.
 
  -- Maximiliano Curia <maxy@debian.org>  Mon, 08 Apr 2013 13:50:03 +0200
+
+klickety (4:4.10.2-0ubuntu1) raring; urgency=low
+
+  * New upstream bugfix release
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Sun, 31 Mar 2013 14:51:03 +0200
+
+klickety (4:4.10.1-0ubuntu1) raring-proposed; urgency=low
+
+  * New upstream bugfix release
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Tue, 05 Mar 2013 15:48:43 +0000
+
+klickety (4:4.10.0-0ubuntu1) raring-proposed; urgency=low
+
+  * New upstream release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Wed, 06 Feb 2013 11:56:49 +0000
+
+klickety (4:4.9.98-0ubuntu1) raring-proposed; urgency=low
+
+  * New upstream release candidate
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 18 Jan 2013 15:43:42 +0000
+
+klickety (4:4.9.97-0ubuntu1) raring; urgency=low
+
+  * New upstream release candidate
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Thu, 03 Jan 2013 22:37:26 +0100
+
+klickety (4:4.9.95-0ubuntu1) raring; urgency=low
+
+  * New upstream RC release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 18 Dec 2012 23:32:46 +0000
+
+klickety (4:4.9.90-0ubuntu1) raring-proposed; urgency=low
+
+  * Initial release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 07 Dec 2012 17:57:37 +0000
 
