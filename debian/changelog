@@ -1,9 +1,13 @@
-klickety (4:15.04.1-0ubuntu1) UNRELEASED; urgency=medium
+klickety (4:15.04.2-0ubuntu1) UNRELEASED; urgency=medium
 
+  [ Scarlett Clark ]
   * New upstream release
   * kde4 games need to depend on 14.12 series libkdegames 
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 13 May 2015 22:06:38 -0700
+  [ Jonathan Riddell ]
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Sat, 06 Jun 2015 01:36:29 +0200
 
 klickety (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
