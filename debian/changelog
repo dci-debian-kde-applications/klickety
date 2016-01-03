@@ -1,6 +1,8 @@
 klickety (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
+  * Adding new build deps
+  * Adding new files and fixing paths in install file
 
  -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 14:01:14 +0000
 

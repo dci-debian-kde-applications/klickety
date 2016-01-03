@@ -12,10 +12,25 @@ Uploaders: Daniel Schepler <schepler@debian.org>,
            Maximiliano Curia <maxy@debian.org>
 Build-Depends: cmake,
                debhelper (>= 9),
+               extra-cmake-modules,
                kde-sc-dev-latest (>= 4:4.11),
                kdelibs5-dev,
-               libkdegames-dev,
-               pkg-kde-tools (>= 0.14)
+               kdoctools-dev,
+               kio-dev,
+               libkf5config-dev,
+               libkf5configwidgets-dev,
+               libkf5coreaddons-dev,
+               libkf5dbusaddons-dev,
+               libkf5i18n-dev,
+               libkf5kdegames-dev,
+               libkf5kdelibs4support-dev,
+               libkf5notifications-dev,
+               libkf5notifyconfig-dev,
+               libkf5widgetsaddons-dev,
+               libkf5xmlgui-dev,
+               pkg-kde-tools (>= 0.14),
+               qtbase5-dev,
+               qtdeclarative5-dev
 Standards-Version: 3.9.6
 Homepage: http://games.kde.org/
 Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kde-applications/klickety.git/
