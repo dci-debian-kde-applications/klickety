@@ -1,8 +1,8 @@
-klickety (4:15.12.1-1ubuntu1) UNRELEASED; urgency=medium
+klickety (4:15.12.1-1ubuntu1) xenial; urgency=medium
 
   * Debian merge: No remaining changes. 
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 05 Feb 2016 16:12:37 -0800
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 09 Mar 2016 10:50:11 +0100
 
 klickety (4:15.12.1-1) experimental; urgency=medium
 
