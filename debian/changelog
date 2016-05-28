@@ -1,10 +1,6 @@
-klickety (4:16.04.0-1~2.gbp5c7214) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @5c7214c4e42a14cf8df71d8fa9a389044ce79108 **
+klickety (4:16.04.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @7da2bbf01dd3246b859e507a3edd14fac5acac39 **
-
   * Bump Standards-Version to 3.9.8
   * Update build-deps and deps with the info from cmake
 
@@ -15,7 +11,7 @@ klickety (4:16.04.0-1~2.gbp5c7214) UNRELEASED; urgency=medium
   * debian/control: Update Vcs-Browser and Vcs-Git fields
   * Update install files
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sun, 24 Apr 2016 20:02:55 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 28 May 2016 19:30:47 +0200
 
 klickety (4:15.12.1-1) experimental; urgency=medium
 
