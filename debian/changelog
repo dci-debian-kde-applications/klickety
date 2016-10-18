@@ -1,16 +1,12 @@
-klickety (4:16.08.1-1~1.gbpf12855) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @f12855ba308b472767beecb45aba6f073a6fed99 **
+klickety (4:16.08.1-1) unstable; urgency=medium
 
   [ Maximiliano Curia ]
-  ** SNAPSHOT build @cf23de8144302292281af8fdfa3f23fd27af9648 **
-
-  * UNRELEASED
+  * New upstream release (16.08.1)
 
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 08 Sep 2016 21:30:34 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 19 Oct 2016 00:09:46 +0200
 
 klickety (4:16.04.0-1) unstable; urgency=medium
 
