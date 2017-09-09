@@ -37,8 +37,8 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/klickety.git
 Package: klickety
 Architecture: any
 Depends: ${misc:Depends}, ${perl:Depends}, ${shlibs:Depends}
-Replaces: ksame (<< 4:4.6)
-Breaks: ksame (<< 4:4.6)
+Replaces: ksame (<< 4:4.6), ${kde-l10n:all}
+Breaks: ksame (<< 4:4.6), ${kde-l10n:all}
 Recommends: khelpcenter
 Description: SameGame puzzle game
  Klickety is a puzzle game where the player removes groups of colored marbles to
