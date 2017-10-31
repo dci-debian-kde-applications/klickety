@@ -1,10 +1,12 @@
-klickety (4:17.08.1-1~) UNRELEASED; urgency=medium
+klickety (4:17.08.1-1~1) UNRELEASED; urgency=medium
 
   * New upstream release (17.08.1)
   * Bump Standards-Version to 4.1.0.
   * Update upstream metadata
+  * Add breaks/replaces against the kde-l10n packages
+  * Update uploaders list as requested by MIA team (Closes: #879349)
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 09 Sep 2017 00:23:08 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 31 Oct 2017 18:01:18 +0100
 
 klickety (4:17.08.1-0neon) xenial; urgency=medium
 
